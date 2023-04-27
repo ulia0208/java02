@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T11:01:33.405512Z</date>
+  <millis>1682593293405</millis>
+  <nanos>512000</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>hw2</class>
+  <method>saveToFile</method>
+  <thread>1</thread>
+  <message>--//////--Ошибка--//////--</message>
+</record>
+</log>
